@@ -4,11 +4,11 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "afirmacao"
+                afirmacao: "Você tem medo"
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                afirmacao: "Você é tranquilo perante a isso"
             }
         ]
     },
@@ -17,11 +17,11 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao: "afirmacao"
+                afirmacao: "Você usa de Ia para se favorecer"
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você usa ferramentas de IA apenas como ferramenta de auxílio"
             }
         ]
     },
@@ -30,11 +30,11 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você é uma pessoa muito empatica"
             },
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você é uma pessoa esperançosa"
             }
         ]
     },
@@ -43,11 +43,11 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você valoriza a expressão humana"
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você prioriza a velocidade a qualidade"
             }
         ]
     },
@@ -56,11 +56,11 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você entende e compreeende que as Ias são falahas e cometens erros"
             },
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmacao"
+                afirmacao: "Você apoia e ajuda a desenvolver a IA"
             }
         ]
     }
